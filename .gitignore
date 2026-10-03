@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+venv/
+lab_01/
+
+# Python cache / test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-report.xml
+
+# OS files
+.DS_Store
